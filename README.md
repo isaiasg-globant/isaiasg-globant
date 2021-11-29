@@ -1,5 +1,5 @@
 # Isaias D. Garcia (Globant)
-## Developer Sr
+## Developer Sr 🐍
 
 # 🤓 Tech.
     - Python  👍
